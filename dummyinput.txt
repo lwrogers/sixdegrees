@@ -1,0 +1,10 @@
+A # one # two
+B # one # three # oneone 
+C # two # four
+D # three # five
+E # four # six
+F # five # seven
+G # six # eight # oneone
+H # seven # nine
+I # eight # onezero
+J # nine # onezero

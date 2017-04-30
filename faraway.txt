@@ -1,0 +1,7 @@
+6: Logan Lerman, Woon-gyu Na
+7: Elaine Cristin, Takeo Kumagai
+7: Kiyoshi Fukushima, Roy Dart
+7: Giovanne Taffuri, Alex Coutts
+7: Bong-chun Yun, Miranda Capulet
+
+I found these by performing the levels function on a random actor and modified it to print out each neighbor if it was level 6 or higher. The last neighbor printed out is the farthest away and I check it with the level sizes result to make sure that the last printed out is in at least the 6th level, meaning I have a thespian-thespian pair that has a degree of separation greater than or equal to 6.
